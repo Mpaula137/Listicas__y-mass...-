@@ -1,9 +1,9 @@
 # Listicas__y_mass...!
-Veremos las listas y todo lo relacionado con ellas.
+Veremos las listas y todo lo relacionado con ellas. RETO#10
 ## Punto 1:
 - Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
 ### Explicación: ###
-- creamos el arreglo luego use un ciclo for para que los dgitos de el arreglo se sumaran luego cree otra variable la cual era el promedio con su respectivo procedimiento y luego imprimi. Hice uso de el len para saber cuantos digitos y usarlo para usar toos los digitos de el arreglo.
+- Creamos el arreglo luego use un ciclo for para que los dgitos de el arreglo se sumaran luego cree otra variable la cual era el promedio con su respectivo procedimiento y luego imprimi. Hice uso de el len para saber cuantos digitos y usarlo para usar toos los digitos de el arreglo.
 ```
 #Inicializamos el arreglo(lista)
 arreglo= [3.5, 6.7, 1.23, 2.34, 4.567, 34.5, 34.2, 3.98, 3.4]
